@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto IDM-Business é a última fase de um processo seletivo empresarial para estágio de Desenvolvedor Front-End, este projeto teve como objetivo a criação de uma home page que ficasse o mais parecido com o modelo pré-estabelecido pela empresa. Este modelo foi entregue em um arquivo PNG onde deveriamos desenvolver a página e retornar o arquivo index.html. 
+O projeto IDM-Business é a última fase de um processo seletivo empresarial para estágio de Desenvolvedor Front-End, este projeto teve como objetivo a criação de uma home page que ficasse o mais parecido com o modelo pré-estabelecido pela empresa. Este modelo foi entregue em um arquivo PNG onde deveríamos desenvolver a página e retornar o arquivo index.html. 
 
 A home page consiste em uma página empresarial simples e objetiva.
 
